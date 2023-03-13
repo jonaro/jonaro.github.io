@@ -24,10 +24,10 @@ Section css
   --reword-border: #18725C;
   --progress-bar: #D9D9D9;
   --progress-border: #767676;
-  --left-border: #23584C;
+  --left-border: #D4AC66;
   --com-switch: #098F6B;
-  --left-menu: #842c2cf;
-  --hob: #71C73E;
+  --left-menu: #842c2c;
+  --hob: #D4AC66;
   --re-bg: #29534C;
   --re-bg2: #2A645A;
   --re-bg3: #376D64;
@@ -49,7 +49,7 @@ Section css
   --search-icon: #C6C6CB;
   --body: #b94343;
   --dots: #33645B;
-  --dots-active: #6EC640;
+  --dots-active: #D4AC66;
   --match-border: #767676;
   --white: #FFFFFF;
   --black: #111;
